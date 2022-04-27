@@ -1,6 +1,6 @@
 # Airplane image segmentation
 
-Using PSP-Net for image segmentation, especially airplane segmentation.
+Using PSP-Net for image segmentation, especially for airplane segmentation.
 
 The base contains original images:
 
