@@ -11,3 +11,9 @@ and segmented images:
 
 Results after trainig:
 ![results](results.png)
+
+Let's add mask on original image for better look:
+
+![test_original](test_original.png)
+![test_segmented](test_segmented.png)
+![text_masking](test.masking.png)
